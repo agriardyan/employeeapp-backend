@@ -1,0 +1,36 @@
+[
+  {
+    "firstName":"Hans",
+    "lastName":"Langsdorf",
+    "gender":"Male",
+    "dateOfBirth":"1991/10/02",
+    "nationality":"German",
+    "maritalStatus":"Single",
+    "phone":"+6281599841243",
+    "city":"Bandung",
+    "subDivision":"Java Bootcamp",
+    "status":"Permanent",
+    "suspendDate":"",
+    "hiredDate":"2012/04/03",
+    "grade":"SE - AP",
+    "division":"CDC AsteRx",
+    "email":"langsdorf.hans@gmail.com"
+  },
+  {
+    "firstName":"John",
+    "lastName":"Statham",
+    "gender":"Male",
+    "dateOfBirth":"1992/06/10",
+    "nationality":"Indonesia",
+    "maritalStatus":"Single",
+    "phone":"+6285958600672",
+    "city":"Bandung",
+    "subDivision":"Java Bootcamp",
+    "status":"Contract",
+    "suspendDate":"",
+    "hiredDate":"2012/04/03",
+    "grade":"SE - AP",
+    "division":"CDC AsteRx",
+    "email":"john.statham@gmail.com"
+  }
+]
